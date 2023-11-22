@@ -1,0 +1,7 @@
+go 1.21.1
+
+use (
+	./go-http-server
+	./go-todo-cli
+	./go-weather-api
+)
